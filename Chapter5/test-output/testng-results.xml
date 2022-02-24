@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="139" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+    <groups>
+    </groups>
+    <test name="AutoTest" duration-ms="139" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+      <class name="com.course.testng.BasicAnnotation">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.course.testng.BasicAnnotation@5c3bd550]" name="beforeMethod" is-config="true" duration-ms="40" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.course.testng.BasicAnnotation@5c3bd550]" name="testCase1" duration-ms="1" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.course.testng.BasicAnnotation@5c3bd550]" name="afterMethod" is-config="true" duration-ms="4" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.course.testng.BasicAnnotation@5c3bd550]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.course.testng.BasicAnnotation@5c3bd550]" name="testCase2" duration-ms="0" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.course.testng.BasicAnnotation@5c3bd550]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-02-17T21:03:19 CST" finished-at="2022-02-17T21:03:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.course.testng.BasicAnnotation -->
+    </test> <!-- AutoTest -->
+  </suite> <!-- Default Suite -->
+</testng-results>
